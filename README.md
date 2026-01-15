@@ -1,3 +1,5 @@
+![Gif of Project](https://github.com/0larszl0/RepositoryClips/ChatGPT-Remastered-Clip.gif)
+
 # ChatGPT-Prompt-Remastered
 A remastered interface of ChatGPT that feels more friendly to the user, in a way that you would not want to go back to using the original ChatGPT interface. Additionally, it features parameter tuning for models which is missed out in ChatGPTs interface to cater for the less tech-savvy audience.
 
